@@ -1,7 +1,7 @@
 # Revenue-And-Customer-Analysis-Dashboard-Tableau
 
 ## Intorduction
-This real-live project outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
+This real-live project outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. Check the dynamic dashboard [here](https://public.tableau.com/views/SalesCustomerDashboardsDynamic_17146147121430/SalesDashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Sales Dashboard
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
