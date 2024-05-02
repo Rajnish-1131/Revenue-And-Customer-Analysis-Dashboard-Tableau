@@ -43,6 +43,8 @@ Represent the distribution of customers based on the number of orders they have 
 —	Present the top 10 customers who have generated the highest profits for the company.
 —	Show additional information like rank, number of orders, current sales, current profit and the last order date.
 
+![Sales dashboard](file:///C:/Users/RAJNISH%20KUMAR/Downloads/Sales%20Dashboard.png "Sales Dashboard")
+
 Thanks!
 
 
